@@ -7,7 +7,6 @@ Harudog不是一个好的计算机学生，Harudog不老实，所以Harudog在�
 ```
 📁 csNote
 ├── 📁 CSnote
-│  └── 📁 COnote
-│      └── 📄 Trash.md
+│  Some other things
 └── 📄 README.md
 ```

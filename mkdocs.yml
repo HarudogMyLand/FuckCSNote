@@ -126,3 +126,8 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
 copyright: Copyright &copy; 2025 - 2030 Not a real copyright
+
+nav:
+  - 首页: index.md
+  - 计算机组成:
+    - 导论: CO/tutorial1.md
